@@ -1,0 +1,55 @@
+/* Hoja de estilos */
+
+body {
+    background-color: lightblue;
+    margin: 30px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#form1 {
+    border: 5px green solid;
+    padding: 20px;
+}
+
+div {
+    margin-bottom: 20px;
+}
+
+#equipos {
+    margin-top: 15px;
+    width: 70%;
+}
+
+table, th, tr, td {
+    border: 1px black solid;
+}
+
+table {
+    border-collapse: collapse;
+    background-color: lightgreen;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+td {
+    height: 30px;
+    text-align: center;
+}
+
+caption {
+    font-weight: bolder;
+    font-size: 1.3em;
+}
+
+#btncentro {
+    text-align: center;
+}
+
+input[type="submit"] {
+    background-color: orange;
+}
